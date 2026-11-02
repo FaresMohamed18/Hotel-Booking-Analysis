@@ -40,8 +40,7 @@ The analysis was conducted using Microsoft Excel, with an interactive dashboard 
 * The overall booking cancellation rate was 37.04%.
 
 ## Dashboard Preview
-![Hotel Booking Dashboard](hotel-booking-dashboard.png)
-
+![Hotel Booking Dashboard](images/hotel-booking-dashboard.png)
 The interactive Excel dashboard provides an overview of hotel performance, including booking trends, revenue distribution, and cancellation analysis.
 
 ## Project Files
