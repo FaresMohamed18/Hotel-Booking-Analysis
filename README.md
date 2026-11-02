@@ -44,9 +44,9 @@ The analysis was conducted using Microsoft Excel, with an interactive dashboard 
 The interactive Excel dashboard provides an overview of hotel performance, including booking trends, revenue distribution, and cancellation analysis.
 
 ## Project Files
-
-Project files and dashboard screenshots are available in this repository.
-
+- Dashboard Preview: Available in the `images` folder.
+- Analysis Tool: Microsoft Excel.
+- Dataset and Excel workbook are not included.
 ## Author
 
 **Faris Mohamed**
